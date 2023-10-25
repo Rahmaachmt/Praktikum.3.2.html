@@ -1,0 +1,27 @@
+DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hasil Form Latihan 2</title>
+</head>
+<body>
+    <h1 align="center">Thank You</h1>
+    <hr>
+    <p>pesanan anda sedang di proses silahkan menunggu dan mohon di cek kembali untuk pesanan anda </p>
+    <ul style="list-style: none;">
+        <li>
+            <b>Name:</b> rahmaa
+        </li>
+        <li>
+            <b>Address:</b> jln.ksr dadi kusmayadi
+         </li>
+         <li>
+            <b>Telephone:</b> 08234244332
+         </li>
+        </ul>
+        <b>Delivery Instruction</b> ring .....
+    <hr>
+    <p>terimakasih sudah memesan silahkan menunggu</p>
+</body>
+</html>
